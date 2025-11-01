@@ -19,6 +19,10 @@ return require('packer').startup(function(use)
   use 'nvim-tree/nvim-web-devicons'
   use 'nvim-lualine/lualine.nvim'
   use 'nvim-treesitter/nvim-treesitter'
+  use 'neovim/nvim-lspconfig'
+  use 'mason-org/mason.nvim'
+  use 'mason-org/mason-lspconfig.nvim'
+  use 'WhoIsSethDaniel/mason-tool-installer.nvim'
   use
   {
 	  'nvim-telescope/telescope.nvim',
