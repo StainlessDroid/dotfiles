@@ -39,4 +39,4 @@ Once all the dependencies are installed and neovim is working, delete the defaul
 ## Troubleshooting
 
 The plugin manager will download and install the plugins at startup, but you can do it manually running the :PackerInstall command.
-It is recommended to run the :checkhealth <name_of_the_plugin> command for every plugin installed. If anyone throws an error copy the 
+It is recommended to run the :checkhealth <name_of_the_plugin> command for every plugin installed.
